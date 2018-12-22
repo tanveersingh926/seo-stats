@@ -1,0 +1,14 @@
+{
+    "h1": {
+        "totalElements": 3
+    },
+    "img": {
+        "totalElements": 3,
+        "withoutAlt": 2,
+        "withoutTitle": 1
+    },
+    "a": {
+        "totalElements": 3,
+        "withoutHref": 2
+    }
+}
