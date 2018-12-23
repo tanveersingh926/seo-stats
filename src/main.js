@@ -105,7 +105,7 @@ const SeoStatsModule = (()=> {
             console.log(`%cStop\nfix this first or %c\nI will hunt you down.`, _consoleMsgStyle.error[0], _consoleMsgStyle.error[0] + _consoleMsgStyle.error[1]);
         }
 
-        // console.save(_seoReport, jsonFileName);
+        console.save(_seoReport, jsonFileName);
     };
 
     return {

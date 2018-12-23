@@ -1,3 +1,4 @@
+[DONE]
 # SEO Stats Utility
 
 This utility helps to generate a JSON file which contains the total no. of elements in a web page and no. of elements which does not have given attribute or if attribute is empty.
